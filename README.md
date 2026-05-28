@@ -100,10 +100,12 @@ print(s.getsockname())
 print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
+Output:
+<img width="1920" height="1080" alt="Screenshot 2026-05-19 112232" src="https://github.com/user-attachments/assets/5dbee8b5-2ea4-48ab-a4e9-232b439d604a" />
+
 
 
 ## Result:
-<img width="1920" height="1080" alt="Screenshot 2026-05-19 112232" src="https://github.com/user-attachments/assets/5dbee8b5-2ea4-48ab-a4e9-232b439d604a" />
 
 
 Thus the study on Client Server Chat Applications has been performed
